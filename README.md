@@ -1,18 +1,21 @@
+### Developed by: DODDA JAYASRI
+### Register No: 212222240028
+### Date:
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date:
+
 ### AIM:
-To Implement Linear and Polynomial Trend Estiamtion Using Python.
+To Implement Linear and Polynomial Trend Estimation Using Python.
 
 ### ALGORITHM:
-Import necessary libraries (NumPy, Matplotlib)
+Step 1: Import necessary libraries (NumPy, Matplotlib)
 
-Load the dataset
+Step 2: Load the dataset
 
-Calculate the linear trend values using least square method
+Step 3: Calculate the linear trend values using least square method
 
-Calculate the polynomial trend values using least square method
+Step 4: Calculate the polynomial trend values using least square method
 
-End the program
+Step 5: End the program
 ### PROGRAM:
 ```
 import numpy as np
